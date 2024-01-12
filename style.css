@@ -1,0 +1,30 @@
+.bg-dark-transparent{
+    background-color: rgba(0,0,0,0.5);
+}
+.bg-danger{
+    background-color: rgb(65, 65, 224) !important
+}
+.text-danger{
+    color: rgb(65, 65, 224) !important
+
+}
+.btn-danger{
+    background-color: rgb(65, 65, 224)!important;
+    border-color: #131c7a!important;
+    }
+  
+  .btn-danger:active, .btn-danger:focus, .btn-danger:hover {
+    color: rgb(0, 0, 0);
+    box-shadow: none!important;
+  }
+  .btn-outline-danger:active, .btn-outline-danger:focus, .btn-outline-danger:hover  {
+    color: #fff;
+    background-color: transparent!important;
+    box-shadow: none !important;
+
+  }
+  .btn-outline-danger{
+    background-color: rgb(65, 65, 224)!important;
+    border-color: #131c7a!important;
+    color: white;
+  }
